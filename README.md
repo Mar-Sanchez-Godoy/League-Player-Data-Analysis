@@ -1,43 +1,46 @@
-# League Player Data Analysis
-Comparative analysis of player performance across different leagues using Data Analytics techniques.
+# League Player Data Analysis — BI‑Oriented
+Comparative performance analysis of professional football players across leagues, following end‑to‑end Business Intelligence workflows.
 
-Overview
-This project focuses on the statistical comparison of professional football players across multiple leagues.
-The first case study analyzes Lionel Messi vs Cristiano Ronaldo, covering their entire professional league careers.
+## Purpose
+This project applies BI methodologies to evaluate and compare player performance using structured datasets, KPI modeling, and analytical dashboards.
+The initial case study focuses on Lionel Messi vs Cristiano Ronaldo, covering their full professional league careers.
 
-Objectives
-Build a clean and structured dataset for multi‑league player analysis.
+## BI Workflow
+Data Collection & Staging: Raw league-season data consolidated in Google Sheets and CSV files.
 
-Compare performance metrics across seasons, clubs, and leagues.
+Data Cleaning & Standardization: Unifying metrics, formats, and season structures for cross‑league comparability.
 
-Apply Data Analytics techniques to extract insights and trends.
+Dimensional Modeling: Designing a star‑schema‑ready structure for future Power BI dashboards.
 
-Create visualizations and dashboards for decision‑support.
+KPI Definition: Goals, assists, minutes, efficiency ratios, per‑90 metrics, contribution rates, and league‑adjusted indicators.
 
-Current Case Study
-Messi vs Ronaldo — Full League Career Comparison
+Exploratory Analysis: Identifying trends, outliers, and performance patterns across clubs and seasons.
+
+Visualization: Building charts and dashboards to support comparative insights and decision‑making.
+
+## Current Case Study — Messi vs Ronaldo
 Work in progress:
 
-Data extraction from league seasons
+Full league career dataset
 
-Standardization of metrics
+Metric normalization across leagues
 
-KPI definition (goals, assists, minutes, efficiency ratios, etc.)
+## KPI modeling for performance comparison
 
-Exploratory analysis and visual insights
+Exploratory visual insights
 
 Tech Stack
-Python / Pandas
+Python / Pandas — data processing
 
-SQL
+SQL — querying and transformations
 
-Power BI / Data Visualization
+Power BI — dashboarding and KPI visualization
 
-Google Sheets (data staging)
+Google Sheets — staging and manual validation
 
-GitHub for version control
+GitHub — version control and documentation
 
-Repository Structure
+## Repository Structure
 
 /data
     raw/
@@ -46,10 +49,11 @@ Repository Structure
 /visualizations
 README.md
 
-
 Next Steps
-Add more players and leagues
+Add additional players and leagues
 
-Expand KPIs and advanced metrics
+Expand advanced metrics (xG, xA, per‑90 models, efficiency indexes)
 
-Publish dashboards and comparative reports
+Publish interactive Power BI dashboards
+
+Automate data ingestion and updates
