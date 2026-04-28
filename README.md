@@ -1,59 +1,77 @@
 # League Player Data Analysis — BI‑Oriented
 Comparative performance analysis of professional football players across leagues, following end‑to‑end Business Intelligence workflows.
 
-## Purpose
-This project applies BI methodologies to evaluate and compare player performance using structured datasets, KPI modeling, and analytical dashboards.
-The initial case study focuses on Lionel Messi vs Cristiano Ronaldo, covering their full professional league careers.
 
-## BI Workflow
-Data Collection & Staging: Raw league-season data consolidated in Google Sheets and CSV files.
+# GA Metrics – Lionel Messi & Cristiano Ronaldo  
+Comparative Career Analysis (Goals + Assists)
 
-Data Cleaning & Standardization: Unifying metrics, formats, and season structures for cross‑league comparability.
+This project presents a data‑driven analysis of the offensive contribution of Lionel Messi and Cristiano Ronaldo throughout their club careers.  
+The goal is **not** to determine who is the best player, but to visualize how much both have contributed to football using measurable offensive metrics.
 
-Dimensional Modeling: Designing a star‑schema‑ready structure for future Power BI dashboards.
+---
 
-KPI Definition: Goals, assists, minutes, efficiency ratios, per‑90 metrics, contribution rates, and league‑adjusted indicators.
+## 📊 Project Overview
 
-Exploratory Analysis: Identifying trends, outliers, and performance patterns across clubs and seasons.
+The analysis focuses on **GA (Goals + Assists)** as the primary metric.  
+It includes:
 
-Visualization: Building charts and dashboards to support comparative insights and decision‑making.
+- GA by Club  
+- GA by Competition  
+- GA by Season  
+- GA by Age  
+- GA Percentile (per season)  
+- Peak Performance Metrics  
+- Total GA Accumulated  
+- Individual Club Distribution (Messi / Cristiano)  
+- Combined Contribution Visuals  
 
-## Current Case Study — Messi vs Ronaldo
-Work in progress:
+All visuals were created using **Power BI**.
 
-Full league career dataset
+---
 
-Metric normalization across leagues
+## 🎯 Purpose of This Analysis
 
-## KPI modeling for performance comparison
+This comparison is made **solely for analytical and educational purposes**.  
+It does **not** represent the full impact of each player on the pitch.
 
-Exploratory visual insights
+Important notes:
 
-Tech Stack
-Python / Pandas — data processing
+- It does **not** include passes, dribbles, shots, defensive actions, or overall team influence.  
+- It does **not** determine who the best player is.  
+- The information is **biased by nature**, since neither player has finished their career and major competitions are still ongoing.  
+- The intention is to provide data that can be used in **friendly, informal football debates**.
 
-SQL — querying and transformations
+I genuinely hope people enjoy football as much as I do, and that this project contributes to that enjoyment.
 
-Power BI — dashboarding and KPI visualization
+---
 
-Google Sheets — staging and manual validation
+## Data Source
 
-GitHub — version control and documentation
+All data was extracted using AI from:
 
-## Repository Structure
+🔗 https://fbref.com/en/
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Power BI** – Data modeling & visualization  
+- **Python (optional)** – Data cleaning  
+- **GitHub** – Version control & documentation  
+- **AI-assisted extraction** – Data retrieval from FBRef  
+
+---
+
+## 📁 Repository Structure
 
 /data
-    raw/
-    processed/
-/notebooks
-/visualizations
+Raw data: Lionel Messi - League Clubs.csv and Cristiano Ronaldo - League Clubs.csv
+Cleaned data: League Clubs PBIX.pbix
+PDF: League Clubs PBIX.pdf
+
+/screenshots
+Visualizacion.png
+
 README.md
 
-Next Steps
-Add additional players and leagues
 
-Expand advanced metrics (xG, xA, per‑90 models, efficiency indexes)
-
-Publish interactive Power BI dashboards
-
-Automate data ingestion and updates
