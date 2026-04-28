@@ -175,7 +175,8 @@ README.md
 
 ## 📸 Vista Previa del Dashboard
 
-![Visualización del Dashboard](Visualizacion.png)
+![Visualización del Dashboard](Screenshots/Visualizacion.png)
+
 
 ---
 
