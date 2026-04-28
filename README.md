@@ -80,7 +80,7 @@ README.md
 
 ## 📸 Dashboard Preview
 
-![Visualización del Dashboard](Visualizacion.png)
+![Visualización del Dashboard](Screenshots/Visualizacion.png)
 
 ---
 
