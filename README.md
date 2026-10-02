@@ -81,14 +81,6 @@ README.md
 
 
 
----
-
-## 📸 Dashboard Preview
-
-![Visualización del Dashboard](Screenshots/Visualizacion.png)
-
----
-
 ## 🤝 Contributions
 
 Feel free to open issues or submit pull requests if you want to improve the dataset, add new metrics, or extend the analysis.
