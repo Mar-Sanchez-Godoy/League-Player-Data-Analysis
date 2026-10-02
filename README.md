@@ -10,6 +10,12 @@ The goal is **not** to determine who is the best player, but to visualize how mu
 
 ---
 
+## 📸 Dashboard Preview
+
+![Visualización del Dashboard](Screenshots/Visualizacion.png)
+
+---
+
 ## 📊 Project Overview
 
 The analysis focuses on **GA (Goals + Assists)** as the primary metric.  
