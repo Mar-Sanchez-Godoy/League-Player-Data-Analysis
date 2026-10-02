@@ -1,4 +1,4 @@
-# League Player Data Analysis — BI‑Oriented
+# League Player Data Analysis
 Comparative performance analysis of professional football players across leagues, following end‑to‑end Business Intelligence workflows.
 
 
