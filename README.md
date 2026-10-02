@@ -1,6 +1,5 @@
 # League Player Data Analysis
-Comparative performance analysis of professional football players across leagues, following end‑to‑end Business Intelligence workflows.
-
+Comparative performance analysis of two of the greatest professional football players of the 21st century across different leagues, following an end-to-end Business Intelligence workflow.
 
 # GA Metrics – Lionel Messi & Cristiano Ronaldo  
 Comparative Career Analysis (Goals + Assists)
