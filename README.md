@@ -1,11 +1,9 @@
-# League Player Data Analysis
-Comparative performance analysis of two of the greatest professional football players of the 21st century across different leagues, following an end-to-end Business Intelligence workflow.
+# League Metrics – Lionel Messi & Cristiano Ronaldo
 
-# GA Metrics – Lionel Messi & Cristiano Ronaldo  
-Comparative Career Analysis (Goals + Assists)
+### Comparative Career Analysis (Goals + Assists)
 
-This project presents a data‑driven analysis of the offensive contribution of Lionel Messi and Cristiano Ronaldo throughout their club careers.  
-The goal is **not** to determine who is the best player, but to visualize how much both have contributed to football using measurable offensive metrics.
+**GA (Goals + Assists)** represents the total number of goals scored and assists recorded by each player. In this project, it is used as the primary metric to analyze and compare the offensive contribution of Lionel Messi and Cristiano Ronaldo throughout their club careers, from the beginning of their professional careers up to the period preceding the 2026 World Cup.
+
 
 ---
 
