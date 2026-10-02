@@ -59,7 +59,6 @@ All data was extracted using AI from:
 ## 🛠️ Tools & Technologies
 
 - **Power BI** – Data modeling & visualization  
-- **Python (optional)** – Data cleaning  
 - **GitHub** – Version control & documentation  
 - **AI-assisted extraction** – Data retrieval from FBRef  
 
